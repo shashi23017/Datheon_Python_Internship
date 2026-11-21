@@ -1,0 +1,8 @@
+{
+    "products": {
+        "price": "Our product prices start from $10.",
+        "delivery": "We provide delivery within 3-5 working days.",
+        "payment": "We accept cash, credit cards, and online payments.",
+        "return": "Products can be returned within 7 days of purchase."
+    }
+}
